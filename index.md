@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tim Wirtjes
 #### Senior Software Developer
-![Senior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![Senior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I made this project just for fun.
 
