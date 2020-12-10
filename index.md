@@ -8,4 +8,4 @@ Skills: C/C++/Python/Bash/JavaScript/Go/Rust/HTML/CSS
 
 🔭 I’m currently working on this page.
 
-
+<hr>
